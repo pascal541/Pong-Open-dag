@@ -162,6 +162,14 @@
 		{
 			"Name": "DMXFixtures",
 			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolDMX",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolMIDI",
+			"Enabled": true
 		}
 	]
 }
